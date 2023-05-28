@@ -1,0 +1,167 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+input{
+    position: absolute;
+    left: 45%;
+    top: 23%;
+}
+.imagen1{
+    position: absolute;
+    left: 57%;
+    top:23%;
+    width:40px;
+    height: 40px;
+}
+
+.imagen2{
+    position: absolute;
+    left: 5%;
+    top: 45%;
+}
+.imagen3{
+    position: absolute;
+    left: 15%;
+    top: 45%;
+}
+.imagen4{
+    position: absolute;
+    left: 25%;
+    top: 45%;
+}
+.imagen5{
+    position: absolute;
+    left: 35%;
+    top: 45%;
+}
+.imagen6{
+    position: absolute;
+    left: 45%;
+    top: 45%;
+}
+.imagen7{
+    position: absolute;
+    left: 55%;
+    top: 45%;
+}
+.imagen8{
+    position: absolute;
+    left: 65%;
+    top: 45%;
+}
+.Carro{
+    position: absolute;
+    left: 75%;
+    top: 35%;
+    width:60px;
+    height: 60px;
+}
+h2{
+    margin: 80px;
+}
+.imagen9{
+    position: absolute;
+    left: 5%;
+    top:75%;
+    
+}
+.imagen10{
+    position: absolute;
+    left: 15%;
+    top:75%;
+}
+.imagen11{
+    position: absolute;
+    left: 25%;
+    top:75%;
+    
+}
+.imagen12{
+    position: absolute;
+    left: 35%;
+    top:75%;
+}
+.imagen13{
+    position: absolute;
+    left: 45%;
+    top:75%;
+}
+.imagen14{
+    position: absolute;
+    left: 55%;
+    top:75%;
+    
+}
+.imagen15{
+    position: absolute;
+    left: 65%;
+    top:75%
+    
+}
+
+
+
+
+.imagen16{
+    position: absolute;
+    left: 5%;
+    top:105%;
+    
+}
+.imagen17{
+    position: absolute;
+    left: 15%;
+    top:105%;
+}
+.imagen18{
+    position: absolute;
+    left: 25%;
+    top:105%;
+    
+}
+.imagen19{
+    position: absolute;
+    left: 35%;
+    top:105%;
+}
+.imagen20{
+    position: absolute;
+    left: 45%;
+    top:105%;
+}
+.imagen21{
+    position: absolute;
+    left: 55%;
+    top:105%;
+    
+}
+.imagen22{
+    position: absolute;
+    left: 65%;
+    top:105%
+}
+.Subtitle{
+    position: absolute;
+    left: 2%;
+    top:25%;
+}
+.Subtitle2{
+    position: absolute;
+    left: 2%;
+    top:55%;
+}
+.Subtitle3{
+    position: absolute;
+    left: 2%;
+    top:85%;
+}
+
+.Chat{
+    position: absolute;
+    left: 75%;
+    top: 115%;
+    width:100px;
+    height: 100px;
+}
